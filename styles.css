@@ -1,0 +1,16 @@
+.contain{
+    margin: 20px
+  }
+h1{
+    margin-left: 120px;
+  }
+.container {
+    margin: 50px auto;
+    width: 500px;
+    height: 520px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+    cursor: pointer;
+    transition: 0.4s;
+    background-color:cornflowerblue;
+    }
